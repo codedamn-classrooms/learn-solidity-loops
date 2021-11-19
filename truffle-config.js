@@ -24,5 +24,6 @@ module.exports = {
       //  },
       //  evmVersion: "byzantium"
       // }
-    }},
+    },
+  },
 };
